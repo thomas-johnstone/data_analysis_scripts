@@ -1,0 +1,35 @@
+[I 21:58:04.181 NotebookApp] Serving notebooks from local directory: /home/tjohnstone/homework4/scripts
+[I 21:58:04.181 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 21:58:04.181 NotebookApp] https://ip-172-31-59-54:8888/
+[I 21:58:04.181 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 21:58:10.352 NotebookApp] SSL Error on 10 ('99.229.240.66', 54000): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[W 21:58:10.392 NotebookApp] SSL Error on 10 ('99.229.240.66', 54001): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[I 21:58:12.516 NotebookApp] 302 GET / (99.229.240.66) 0.59ms
+[I 21:58:12.559 NotebookApp] 302 GET /tree? (99.229.240.66) 0.75ms
+[I 21:58:15.638 NotebookApp] 302 POST /login?next=%2Ftree%3F (99.229.240.66) 118.32ms
+[W 21:58:16.997 NotebookApp] SSL Error on 12 ('99.229.240.66', 54004): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[W 21:58:17.003 NotebookApp] SSL Error on 13 ('99.229.240.66', 54005): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[W 21:58:17.032 NotebookApp] SSL Error on 12 ('99.229.240.66', 54007): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[W 21:58:17.040 NotebookApp] SSL Error on 14 ('99.229.240.66', 54006): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[I 21:58:23.910 NotebookApp] Creating new notebook in 
+[I 21:58:26.818 NotebookApp] Kernel started: a4f37bd1-a3d9-4e4b-8d66-68ecb4a86c83, name: python3
+[W 21:58:27.136 NotebookApp] SSL Error on 16 ('99.229.240.66', 54011): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1108)
+[I 21:58:58.683 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:59:00.705 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:59:02.777 NotebookApp] Starting buffering for a4f37bd1-a3d9-4e4b-8d66-68ecb4a86c83:ddcee93492c24d3396503da64925ff59
+[I 21:59:09.237 NotebookApp] interrupted
+Serving notebooks from local directory: /home/tjohnstone/homework4/scripts
+1 active kernel
+Jupyter Notebook 6.1.4 is running at:
+https://ip-172-31-59-54:8888/
+Shutdown this notebook server (y/[n])? [I 21:59:19.492 NotebookApp] interrupted
+No answer for 5s: resuming operation...
+Serving notebooks from local directory: /home/tjohnstone/homework4/scripts
+1 active kernel
+Jupyter Notebook 6.1.4 is running at:
+https://ip-172-31-59-54:8888/
+Shutdown this notebook server (y/[n])? [C 21:59:19.786 NotebookApp] received signal 2, stopping
+[I 21:59:19.787 NotebookApp] Shutting down 1 kernel
+[C 21:59:19.982 NotebookApp] received signal 2, stopping
+[I 21:59:19.991 NotebookApp] Kernel shutdown: a4f37bd1-a3d9-4e4b-8d66-68ecb4a86c83
+[I 21:59:19.992 NotebookApp] Shutting down 0 terminals
