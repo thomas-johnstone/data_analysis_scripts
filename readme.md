@@ -1,7 +1,7 @@
 # Data Analysis Project
 
 ## Introduction:
-Simple design of the software for a mock music player application written in Java.
+Python scripts to scrape then parse reddit posts to derive pertinent data and TF-IDF scores. This information is then outputted in concise JSON.
 
 ## Technologies:
 Project is created with:
@@ -10,6 +10,7 @@ Project is created with:
 * Ament library version: 999
 
 ## Project Status:
+* v 1.0
 
 ## Setup & Launch:
 To run this project, install it locally using npm:
