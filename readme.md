@@ -9,7 +9,7 @@ Project is created with:
 * bokeh
 * pandas
 * json
-* reddit api
+2. reddit api
 
 ## Project Status:
 * v 1.0
