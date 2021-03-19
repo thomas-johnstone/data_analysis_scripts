@@ -16,7 +16,9 @@ Project is created with:
 * requests library for reddit api
 
 ## Project Status:
-* v1.0: initial upload and commit. To do: complete readme, clean up script names, establish a natural process flow between scripts.
+* v1.0: initial upload and commit. 
+ 
+   To do: complete readme, clean up script names, establish a natural process flow between scripts.
 
 ## Setup & Launch:
 To run this project, run Python3 scripts locally using...
